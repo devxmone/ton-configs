@@ -1,5 +1,5 @@
 {
-  "url": "http://localhost:3000/",
+  "url": "https://brownfi-ton.vercel.app/",
   "name": "BrownFi",
   "iconUrl": "https://ton-connect.github.io/demo-dapp-with-react-ui/apple-touch-icon.png",
   "termsOfUseUrl": "",
